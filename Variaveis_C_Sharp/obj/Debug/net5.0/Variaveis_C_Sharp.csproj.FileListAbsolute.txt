@@ -1,0 +1,16 @@
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.exe
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.deps.json
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.runtimeconfig.json
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.runtimeconfig.dev.json
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.dll
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\ref\Variaveis_C_Sharp.dll
+C:\Curso C#\Variaveis_C_Sharp\bin\Debug\net5.0\Variaveis_C_Sharp.pdb
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.csproj.AssemblyReference.cache
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.AssemblyInfoInputs.cache
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.AssemblyInfo.cs
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.dll
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\ref\Variaveis_C_Sharp.dll
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.pdb
+C:\Curso C#\Variaveis_C_Sharp\obj\Debug\net5.0\Variaveis_C_Sharp.genruntimeconfig.cache
