@@ -1,0 +1,16 @@
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.exe
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.deps.json
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.runtimeconfig.json
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.runtimeconfig.dev.json
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.dll
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\ref\Exercicio_Fixacao_Saida_dados.dll
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\bin\Debug\net5.0\Exercicio_Fixacao_Saida_dados.pdb
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.csproj.AssemblyReference.cache
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.AssemblyInfoInputs.cache
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.AssemblyInfo.cs
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.csproj.CoreCompileInputs.cache
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.dll
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\ref\Exercicio_Fixacao_Saida_dados.dll
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.pdb
+C:\Curso C#\Saida_de_Dados\Exercicio_Fixacao_Saida_dados\obj\Debug\net5.0\Exercicio_Fixacao_Saida_dados.genruntimeconfig.cache

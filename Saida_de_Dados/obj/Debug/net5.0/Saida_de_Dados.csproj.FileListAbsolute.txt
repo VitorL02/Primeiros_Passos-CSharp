@@ -1,0 +1,16 @@
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.exe
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.deps.json
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.runtimeconfig.json
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.runtimeconfig.dev.json
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.dll
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\ref\Saida_de_Dados.dll
+C:\Curso C#\Saida_de_Dados\bin\Debug\net5.0\Saida_de_Dados.pdb
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.csproj.AssemblyReference.cache
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.AssemblyInfoInputs.cache
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.AssemblyInfo.cs
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.csproj.CoreCompileInputs.cache
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.dll
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\ref\Saida_de_Dados.dll
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.pdb
+C:\Curso C#\Saida_de_Dados\obj\Debug\net5.0\Saida_de_Dados.genruntimeconfig.cache

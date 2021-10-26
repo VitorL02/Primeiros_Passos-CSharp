@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercicio_Fixacao_Saida_dados/1.0.0": {
+        "runtime": {
+          "Exercicio_Fixacao_Saida_dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Fixacao_Saida_dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
