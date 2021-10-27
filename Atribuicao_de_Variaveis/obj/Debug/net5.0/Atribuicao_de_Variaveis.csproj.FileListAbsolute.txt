@@ -1,0 +1,16 @@
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.exe
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.deps.json
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.runtimeconfig.json
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.runtimeconfig.dev.json
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.dll
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\ref\Atribuicao_de_Variaveis.dll
+C:\Curso C#\Atribuicao_de_Variaveis\bin\Debug\net5.0\Atribuicao_de_Variaveis.pdb
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.csproj.AssemblyReference.cache
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.AssemblyInfoInputs.cache
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.AssemblyInfo.cs
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.csproj.CoreCompileInputs.cache
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.dll
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\ref\Atribuicao_de_Variaveis.dll
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.pdb
+C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.genruntimeconfig.cache
