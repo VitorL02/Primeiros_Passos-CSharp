@@ -1,0 +1,16 @@
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.exe
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.deps.json
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.runtimeconfig.json
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.runtimeconfig.dev.json
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.dll
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\ref\Operadores_Aritimeticos.dll
+C:\Curso C#\Operadores_Aritimeticos\bin\Debug\net5.0\Operadores_Aritimeticos.pdb
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.csproj.AssemblyReference.cache
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.AssemblyInfoInputs.cache
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.AssemblyInfo.cs
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.csproj.CoreCompileInputs.cache
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.dll
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\ref\Operadores_Aritimeticos.dll
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.pdb
+C:\Curso C#\Operadores_Aritimeticos\obj\Debug\net5.0\Operadores_Aritimeticos.genruntimeconfig.cache
