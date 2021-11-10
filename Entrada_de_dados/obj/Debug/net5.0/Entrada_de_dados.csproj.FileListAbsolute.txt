@@ -1,0 +1,16 @@
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.exe
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.deps.json
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.runtimeconfig.json
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.runtimeconfig.dev.json
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.dll
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\ref\Entrada_de_dados.dll
+C:\Curso C#\Entrada_de_dados\bin\Debug\net5.0\Entrada_de_dados.pdb
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.csproj.AssemblyReference.cache
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.AssemblyInfoInputs.cache
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.AssemblyInfo.cs
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.dll
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\ref\Entrada_de_dados.dll
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.pdb
+C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.genruntimeconfig.cache
