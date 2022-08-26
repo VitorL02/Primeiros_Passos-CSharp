@@ -1,0 +1,8 @@
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\bin\Debug\ExercicioPi.exe.config
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\bin\Debug\ExercicioPi.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\bin\Debug\ExercicioPi.pdb
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\obj\Debug\ExercicioPi.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\obj\Debug\ExercicioPi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\obj\Debug\ExercicioPi.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\obj\Debug\ExercicioPi.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExercicioPi\ExercicioPi\obj\Debug\ExercicioPi.pdb

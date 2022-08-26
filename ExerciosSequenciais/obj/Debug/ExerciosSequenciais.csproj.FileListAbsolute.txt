@@ -1,0 +1,8 @@
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\bin\Debug\ExerciosSequenciais.exe.config
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\bin\Debug\ExerciosSequenciais.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\bin\Debug\ExerciosSequenciais.pdb
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\obj\Debug\ExerciosSequenciais.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\obj\Debug\ExerciosSequenciais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\obj\Debug\ExerciosSequenciais.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\obj\Debug\ExerciosSequenciais.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\ExerciosSequenciais\obj\Debug\ExerciosSequenciais.pdb

@@ -14,3 +14,5 @@ C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.dll
 C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\ref\Atribuicao_de_Variaveis.dll
 C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.pdb
 C:\Curso C#\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.genruntimeconfig.cache
+C:\Users\Vitor\Source\Repos\VitorL02\Primeiros_Passos-CSharp\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.dll
+C:\Users\Vitor\Source\Repos\VitorL02\Primeiros_Passos-CSharp\Atribuicao_de_Variaveis\obj\Debug\net5.0\Atribuicao_de_Variaveis.pdb

@@ -15,7 +15,7 @@ namespace Entrada_de_dados
 
         //    String[] vetor_string = cores.Split(' '); //Split e uma função para "recortar strings"
 
-            String[] vetor_string = Console.ReadLine().Split(' '); // Realiza a mesma função de declarar uma variavel,como na linha anterior,porem economiza memoria,por não necessariamente declarar uma variavel para receber os dados.
+           String[] vetor_string = Console.ReadLine().Split(' '); // Realiza a mesma função de declarar uma variavel,como na linha anterior,porem economiza memoria,por não necessariamente declarar uma variavel para receber os dados.
            String primeira_cor = vetor_string[0];
            String segunda_cor = vetor_string[1];
            String terceira_cor = vetor_string[2];

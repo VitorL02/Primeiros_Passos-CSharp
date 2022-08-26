@@ -1,0 +1,8 @@
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\bin\Debug\Peças.exe.config
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\bin\Debug\Peças.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\bin\Debug\Peças.pdb
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\obj\Debug\Peças.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\obj\Debug\Peças.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\obj\Debug\Peças.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\obj\Debug\Peças.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Peças\obj\Debug\Peças.pdb

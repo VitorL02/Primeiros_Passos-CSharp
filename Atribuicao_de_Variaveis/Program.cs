@@ -8,7 +8,7 @@ namespace Atribuicao_de_Variaveis
         {
              int atribuicao1 = 10;
             Console.WriteLine(atribuicao1);
-                //Vatriaveis de atribuição acumulativa,usa o valor antigo(Realiza uma soma,divisão,multiplicação etc) como o valor apos  a variavel
+            //Variaveis de atribuição acumulativa,usa o valor antigo(Realiza uma soma,divisão,multiplicação etc) como o valor apos  a variavel
             atribuicao1 +=2;
             System.Console.WriteLine(atribuicao1);
 

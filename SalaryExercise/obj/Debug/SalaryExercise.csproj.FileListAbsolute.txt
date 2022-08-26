@@ -1,0 +1,8 @@
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\bin\Debug\SalaryExercise.exe.config
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\bin\Debug\SalaryExercise.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\bin\Debug\SalaryExercise.pdb
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\obj\Debug\SalaryExercise.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\obj\Debug\SalaryExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\obj\Debug\SalaryExercise.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\obj\Debug\SalaryExercise.exe
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\SalaryExercise\obj\Debug\SalaryExercise.pdb

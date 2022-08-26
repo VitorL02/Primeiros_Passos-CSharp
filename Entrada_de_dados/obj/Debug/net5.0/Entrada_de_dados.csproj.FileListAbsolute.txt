@@ -14,3 +14,10 @@ C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.dll
 C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\ref\Entrada_de_dados.dll
 C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.pdb
 C:\Curso C#\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.genruntimeconfig.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.csproj.AssemblyReference.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.AssemblyInfoInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.AssemblyInfo.cs
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.dll
+C:\Users\Vitor\source\repos\VitorL02\Primeiros_Passos-CSharp\Entrada_de_dados\obj\Debug\net5.0\Entrada_de_dados.pdb
